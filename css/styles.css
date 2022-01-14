@@ -1,0 +1,145 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 7rem;
+}
+
+header ul {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 2rem 0 0 10rem;
+}
+
+header ul li {
+  margin: 0.6rem;
+}
+
+header ul li a {
+  color: black;
+}
+
+header ul li a:hover {
+  color: blue;
+}
+
+a {
+  text-decoration: none;
+}
+
+div.language {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: -22rem;
+}
+
+.lang {
+  margin: 0.1rem;
+  font-weight: 500;
+}
+
+.signal-bird {
+  width: 1rem;
+  height: 1rem;
+  margin: 0 1rem 0 0.5rem;
+}
+
+.instagram-logo {
+  width: 1rem;
+  height: 1rem;
+  margin: 0 1rem 0 0.5rem;
+}
+
+.globe {
+  width: 1rem;
+  height: 1rem;
+  /* margin: 0.2rem; */
+}
+
+.arrowdown {
+  width: 1rem;
+  height: 1rem;
+}
+
+.banner {
+  display: flex;
+  background-color: #9dbbf8;
+  height: 42rem;
+  /* width: 100%; */
+}
+
+.get-signal {
+  padding: 11rem 3rem 0 3rem;
+  /* margin-right: -20rem; */
+}
+
+p.speak {
+  padding-left: 3rem;
+  font-weight: bolder;
+  font-size: 4rem;
+}
+
+p.speak-more {
+  padding: 3rem 4rem 3rem 3rem;
+  font-weight: 450;
+  font-size: 1.3rem;
+  line-height: 1.3;
+}
+
+button.get-signal-button {
+  margin-left: 3rem;
+  border: none;
+  border-radius: 0.5rem;
+  width: 8rem;
+  height: 3.4rem;
+}
+
+.button-signal-text {
+  color: #9dbbf8;
+  font-weight: bolder;
+  font-size: 1rem;
+}
+
+.phone-chats {
+  display: flex;
+  padding-right: 10rem;
+}
+
+img.img-phone-chats {
+  transform: rotate(27deg);
+  height: 35rem;
+  width: 17rem;
+  border-radius: 2.2rem;
+  margin-top: 8rem;
+}
+
+img.img-phone-chats1 {
+  transform: rotate(27deg);
+  height: 35rem;
+  width: 17rem;
+  border-radius: 2.2rem;
+  margin-top: 3rem;
+}
+
+.testimony {
+  background-color: #ECECEC;
+  height: 30rem;
+}
+
+.first-testimony {
+  display: flex;
+}
+
+img.headshot1 {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 5rem;
+}
+
+img.headshot2 {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 5rem;
+}
+
